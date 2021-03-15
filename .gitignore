@@ -1,0 +1,10 @@
+/bin
+/vendor
+/temp
+/services/test
+.idea
+.vscode
+/.vscode
+.DS_Store
+/deployment/config/devlocal
+test.go
